@@ -1,5 +1,6 @@
 name = "Apéro"
 license = "CC-BY-4.0"
+title = "Upendar"
 licenselink = "https://github.com/hugo-apero/hugo-apero/blob/master/LICENSE.md"
 description = "A Hugo theme you'll want to hang out with."
 homepage = "https://hugo-apero.netlify.app"

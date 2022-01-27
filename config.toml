@@ -30,9 +30,9 @@ enableEmoji = true
 [params]
   orgName = "St. Clair College"
   orgLocal = "Anywhere"
-  description = "THis is the personal website of Ramiz"
+  description = "With several years of experience as an IT support engineer, I can bring technical skills to the company to complete tasks involved in various businesses. Fresh Desk | Ticket Management | Client Interaction | International Client Management | CRM. I am currently a student of Data Analytics for Business at St. Clair College, Windsor. I have honed my technical skill and added the efficient use of tools such as MS Excel, Tableau, SQL, Python. I can also use several Visualtion Tools to express the business values and goals.I am keen on working within numbers to make them actionable tasks with my skillset."
   favicon = "/img/fbjpg.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/homebutton.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/share_image.jpg"
+  sharing_image = "img/myportfolioimage.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "apreshill"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -88,11 +88,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/Ramiz27/my_Portfolio"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.facebook.com/ramiz127"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -101,18 +101,6 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
